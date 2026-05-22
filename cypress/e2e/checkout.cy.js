@@ -30,7 +30,7 @@ describe('Fluxo de Compra Completo (E2E)', () => {
     cy.url().should('include', '/checkout-step-one')
 
     // Preenche dados de envio
-    cartPage.fillShippingInfo('Isabela', 'Basilio', '01310-100')
+    cartPage.fillShippingInfo('Isabela', 'Basilio', '30150-221')
     cartPage.clickContinue()
     cy.url().should('include', '/checkout-step-two')
 

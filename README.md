@@ -18,7 +18,7 @@ A aplicação testada é o [SauceDemo (Swag Labs)](https://www.saucedemo.com/), 
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/secret_sauce_isabela_basilio.git
+git clone https://github.com/isabelacostabasilio-cloud/secret_sauce_isabela_basilio.git
 cd secret_sauce_isabela_basilio
 npm install
 ```
